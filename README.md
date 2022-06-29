@@ -1,20 +1,4 @@
-<p align="center">
-  <samp>
-  <a href="https://discord.gg/xe5yF4aRMW">
-  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
-</a>
-<a href="https://github.com/Yahyax001">
-  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-</a>
-<a href="[https://www.instagram.com/adamx_ofc/](https://www.instagram.com/call_me_raidx/)">
-  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
-</a>
-  </samp>
-  
-  <br>
- </p>
 
----
 
 <h3>About Me ✨</h3>
 
